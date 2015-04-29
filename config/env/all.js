@@ -54,7 +54,7 @@ module.exports = {
 			js: [
 				'public/lib/bootstrap/js/dropdown.js',
 				'public/lib/angular/angular.js',
-				'public/lib/angular-resource/angular-resource.js',
+				//'public/lib/angular-resource/angular-resource.js',
 				'public/lib/angular-animate/angular-animate.js',
 				'public/lib/angular-ui-router/release/angular-ui-router.js',
 				'public/lib/angular-ui-utils/ui-utils.js',
